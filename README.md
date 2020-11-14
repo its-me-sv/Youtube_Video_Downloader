@@ -16,8 +16,8 @@
 <hr>
 <h3 id="downloads">Downloads</h3>
 <a href="Snips.rar">Download Gallery</a><br>
-<a href="Calculator.exe">Download Standalone Executable</a><br>
-<a href="Calculator.py">Download Calculator.py [main]</a><br>
-<a href="gui_calculator.rar">Download Complete Source Code [main, module, resources]</a><br>
+<a href="YT_Downloader.exe">Download Standalone Executable</a><br>
+<a href="YT_Downloader.py">Download YT_Downloader.py [main]</a><br>
+<a href="Src_Code_UI_QRC.rar">Download Complete Source Code [main, module, resources]</a><br>
 <hr>
 <a href="#top">Go To Table Of Contents</a>
