@@ -9,10 +9,10 @@
 		<li>Switch Between Light And Dark Themes</li>
 </ol><hr>
 <h3 id="glry">Gallery</h3>
-<img src="Capture.png">
-<img src="Capture1.png">
-<img src="Capture2.png">
-<img src="Capture3.png">
+<img src="https://github.com/its-me-sv/Youtube_Video_Downloader/blob/main/Capture.PNG">
+<img src="https://github.com/its-me-sv/Youtube_Video_Downloader/blob/main/Capture1.PNG">
+<img src="https://github.com/its-me-sv/Youtube_Video_Downloader/blob/main/Capture2.PNG">
+<img src="https://github.com/its-me-sv/Youtube_Video_Downloader/blob/main/Capture3.PNG">
 <hr>
 <h3 id="downloads">Downloads</h3>
 <a href="Snips.rar">Download Gallery</a><br>
